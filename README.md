@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/banner-frieren.svg" width="100%" alt="ggekkos · mage's grimoire"/>
+<!-- BANNER:START -->
+<img src="assets/generated/banner-spring.svg" width="100%" alt="ggekkos · mage's grimoire"/>
+<!-- BANNER:END -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=600&size=20&pause=1500&color=5B66C2&center=true&vCenter=true&width=680&lines=%E2%9C%A6+collecting+useless+spells+for+over+a+thousand+years;%E2%9C%BF+a+spell+to+make+a+field+of+flowers+bloom;%F0%9F%93%96+is+this+a+mimic%3F+...let+me+check%2C+just+in+case;%F0%9F%8C%99+%E6%97%85%E3%81%AF%E3%81%BE%E3%81%A0%E7%B6%9A%E3%81%8F+%E2%80%94+the+journey+continues" alt="collecting useless spells for over a thousand years"/>
 
@@ -28,6 +30,9 @@
 
 <img src="assets/divider-frieren.svg" width="100%" alt=""/>
 
+<!-- GARDEN:START -->
+<!-- GARDEN:END -->
+
 ## ✦ Collected Spells <sub>〜 集めた魔法</sub>
 
 <div align="center">
@@ -44,21 +49,29 @@
 
 </div>
 
+<!-- 💡 A seção abaixo é preenchida sozinha pelo robô diário (.github/workflows/daily-magic.yml).
+     Ela só aparece quando você tiver repositórios públicos. -->
+<!-- GRIMOIRE:START -->
+<!-- GRIMOIRE:END -->
+
 <img src="assets/divider-frieren.svg" width="100%" alt=""/>
 
 ## 🌙 Spell of the Day <sub>〜 今日の魔法</sub>
 
+<!-- SPELL:START -->
 ```diff
-  ✦ SPELL OF THE DAY ✦
-  花畑を出す魔法 · Spell to Make a Field of Flowers
+  ✦ SPELL OF THE DAY · Nov 17, 2026 ✦
+  ミミックを見分ける魔法 · Spell to Detect Mimics
 
-+ effect:              fills any dull place with flowers
-+ use in battle:       none whatsoever
-+ use for happiness:   immeasurable
-- side effects:        none (unlike opening chests)
++ effect:              tells if a chest is a mimic, 99% accuracy
++ use in battle:       life-saving, honestly
++ use for happiness:   immense
+- side effects:        the other 1% is always the chest you open
 
   cast before starting a new repository ✿
 ```
+<sub>✦ a new useless spell is found every day · 毎日ひとつ、新しい魔法</sub>
+<!-- SPELL:END -->
 
 <div align="center">
 
