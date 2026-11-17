@@ -1,41 +1,41 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="ggekkos · boticário do palácio"/>
+<img src="assets/banner.svg" width="100%" alt="ggekkos · palace apothecary"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=600&size=20&pause=1500&color=C8455A&center=true&vCenter=true&width=640&lines=%F0%9F%8C%BF+provando+ervas+suspeitas+desde+sempre;%F0%9F%8D%B5+uma+x%C3%ADcara+de+ch%C3%A1+de+jasmim%2C+por+favor;%F0%9F%A7%AA+isso+%C3%A9+veneno%3F+deixa+eu+provar+s%C3%B3+um+pouquinho...;%F0%9F%8F%AE+o+botic%C3%A1rio+est%C3%A1+aberto%2C+pode+entrar+%E2%9C%BF" alt="provando ervas suspeitas desde sempre"/>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=600&size=20&pause=1500&color=C8455A&center=true&vCenter=true&width=640&lines=%F0%9F%8C%BF+tasting+suspicious+herbs+since+forever;%F0%9F%8D%B5+one+cup+of+jasmine+tea%2C+please;%F0%9F%A7%AA+is+this+poison%3F+let+me+taste+just+a+little...;%F0%9F%8F%AE+the+apothecary+is+open%2C+come+on+in+%E2%9C%BF" alt="tasting suspicious herbs since forever"/>
 
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 📜 Diário do boticário
+## 📜 Apothecary's Diary
 
-> *Dia 1: abri meu próprio boticário aqui no GitHub.*
-> *Entre uma erva e outra, vou guardando projetos, ideias e pequenos experimentos.*
-> *Ainda não descobri se algum deles é venenoso... mas a curiosidade fala mais alto.* 🌿
+> *Day 1: I opened my very own apothecary here on GitHub.*
+> *Between one herb and the next, I'll be storing projects, ideas and little experiments.*
+> *I haven't figured out if any of them are poisonous yet... but curiosity always wins.* 🌿
 
 <div align="center">
 
-| | 🏮 Ficha da apotecária | |
+| | 🏮 Apothecary's Record | |
 |:-:|:--|:--|
-| 🌸 | **Humor** | curiosa, levemente desconfiada |
-| 🍵 | **Bebida** | chá de jasmim (sem veneno, eu acho) |
-| 📚 | **Lendo** | *Diários de uma Apotecária* |
-| 🧪 | **Hobby** | resolver mistérios do palácio |
-| 🎐 | **Status** | explorando o GitHub aos pouquinhos |
+| 🌸 | **Mood** | curious, slightly suspicious |
+| 🍵 | **Drink** | jasmine tea (poison-free, I think) |
+| 📚 | **Reading** | *The Apothecary Diaries* |
+| 🧪 | **Hobby** | solving palace mysteries |
+| 🎐 | **Status** | exploring GitHub, one step at a time |
 
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🌿 Gaveta de ervas
+## 🌿 Herb Drawer
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/anime-fbf0d9?style=for-the-badge&logo=crunchyroll&logoColor=c8102e" alt="anime"/>
-<img src="https://img.shields.io/badge/ch%C3%A1_de_jasmim-fbf0d9?style=for-the-badge&logo=buymeacoffee&logoColor=3f7a57" alt="chá de jasmim"/>
-<img src="https://img.shields.io/badge/mist%C3%A9rios-fbf0d9?style=for-the-badge&logo=googlelens&logoColor=5a2a3a" alt="mistérios"/>
-<img src="https://img.shields.io/badge/ervas_medicinais-fbf0d9?style=for-the-badge&logo=leaflet&logoColor=3f7a57" alt="ervas medicinais"/>
+<img src="https://img.shields.io/badge/jasmine_tea-fbf0d9?style=for-the-badge&logo=buymeacoffee&logoColor=3f7a57" alt="jasmine tea"/>
+<img src="https://img.shields.io/badge/mysteries-fbf0d9?style=for-the-badge&logo=googlelens&logoColor=5a2a3a" alt="mysteries"/>
+<img src="https://img.shields.io/badge/medicinal_herbs-fbf0d9?style=for-the-badge&logo=leaflet&logoColor=3f7a57" alt="medicinal herbs"/>
 
 <!-- 💡 Quando quiser mostrar linguagens/ferramentas, é só copiar um badge acima
      e trocar o nome e o logo (lista de logos: https://simpleicons.org). Ex.:
@@ -46,23 +46,23 @@
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🧾 Receita do dia
+## 🧾 Prescription of the Day
 
 ```diff
-  ✿ RECEITA DO BOTICÁRIO ✿
+  ✿ APOTHECARY'S PRESCRIPTION ✿
 
-+ 1 xícara de chá quentinho
-+ 2 punhados de curiosidade
-+ 1 pitada de coragem para testar coisas novas
-- 0 venenos (dessa vez, prometo)
++ 1 cup of warm tea
++ 2 handfuls of curiosity
++ 1 pinch of courage to try new things
+- 0 poisons (this time, I promise)
 
-  modo de uso: tomar antes de abrir um repositório novo 🍵
+  directions: take before opening a new repository 🍵
 ```
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ggekkos&label=visitantes+no+botic%C3%A1rio&color=c8102e&style=flat-square" alt="visitantes"/>
+<img src="https://komarev.com/ghpvc/?username=ggekkos&label=apothecary+visitors&color=c8102e&style=flat-square" alt="visitors"/>
 
-<img src="assets/footer.svg" width="100%" alt="o boticário fecha ao amanhecer · volte sempre"/>
+<img src="assets/footer.svg" width="100%" alt="the apothecary closes at dawn · come back soon"/>
 
 </div>

@@ -121,9 +121,9 @@
       <circle cx="357" cy="74" r="6"/><circle cx="843" cy="74" r="6"/>
       <circle cx="357" cy="228" r="6"/><circle cx="843" cy="228" r="6"/>
     </g>
-    <text x="600" y="112" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="5" fill="#3f7a57">✿ BOTICÁRIO DO PALÁCIO ✿</text>
+    <text x="600" y="112" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" letter-spacing="5" fill="#3f7a57">✿ PALACE APOTHECARY ✿</text>
     <text x="600" y="168" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="bold" fill="#c8102e" letter-spacing="2">ggekkos</text>
-    <text x="600" y="203" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic" fill="#5a2a3a">ervas · chá de jasmim · mistérios · venenos (só por curiosidade)</text>
+    <text x="600" y="203" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic" fill="#5a2a3a">herbs · jasmine tea · mysteries · poisons (purely out of curiosity)</text>
   </g>
 
   <!-- ervas nos cantos -->
