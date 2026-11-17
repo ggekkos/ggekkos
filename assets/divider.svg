@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40">
+  <line x1="40" y1="20" x2="540" y2="20" stroke="#e8b04a" stroke-width="1.5" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <line x1="660" y1="20" x2="1160" y2="20" stroke="#e8b04a" stroke-width="1.5" stroke-dasharray="2 6" stroke-linecap="round"/>
+  <g transform="translate(600 20)">
+    <ellipse cx="-34" cy="0" rx="14" ry="5" fill="#5fa37a" transform="rotate(-15 -34 0)"/>
+    <ellipse cx="34" cy="0" rx="14" ry="5" fill="#5fa37a" transform="rotate(15 34 0)"/>
+    <g fill="#f4a7b9">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="20s" repeatCount="indefinite"/>
+      <circle cx="0" cy="-9" r="7"/><circle cx="8.6" cy="-2.8" r="7"/><circle cx="5.3" cy="7.3" r="7"/>
+      <circle cx="-5.3" cy="7.3" r="7"/><circle cx="-8.6" cy="-2.8" r="7"/>
+    </g>
+    <circle r="4" fill="#e8b04a"/>
+  </g>
+</svg>
