@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" width="1200" height="40">
+  <defs><path id="s4" d="M0 -9 Q1.5 -1.5 9 0 Q1.5 1.5 0 9 Q-1.5 1.5 -9 0 Q-1.5 -1.5 0 -9 Z"/></defs>
+  <line x1="40" y1="20" x2="555" y2="20" stroke="#a9b2e6" stroke-width="1.5" stroke-dasharray="1 7" stroke-linecap="round"/>
+  <line x1="645" y1="20" x2="1160" y2="20" stroke="#a9b2e6" stroke-width="1.5" stroke-dasharray="1 7" stroke-linecap="round"/>
+  <g fill="#7fa2ec"><circle cx="572" cy="20" r="3"/><circle cx="628" cy="20" r="3"/></g>
+  <g transform="translate(600 20)">
+    <use href="#s4" fill="#c9a961">
+      <animateTransform attributeName="transform" type="rotate" values="0;90" dur="4s" repeatCount="indefinite"/>
+    </use>
+    <circle r="2.5" fill="#fffbe6"/>
+  </g>
+</svg>

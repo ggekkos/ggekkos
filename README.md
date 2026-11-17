@@ -1,68 +1,69 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="ggekkos · palace apothecary"/>
+<img src="assets/banner-frieren.svg" width="100%" alt="ggekkos · mage's grimoire"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&weight=600&size=20&pause=1500&color=C8455A&center=true&vCenter=true&width=640&lines=%F0%9F%8C%BF+tasting+suspicious+herbs+since+forever;%F0%9F%8D%B5+one+cup+of+jasmine+tea%2C+please;%F0%9F%A7%AA+is+this+poison%3F+let+me+taste+just+a+little...;%F0%9F%8F%AE+the+apothecary+is+open%2C+come+on+in+%E2%9C%BF" alt="tasting suspicious herbs since forever"/>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=600&size=20&pause=1500&color=5B66C2&center=true&vCenter=true&width=680&lines=%E2%9C%A6+collecting+useless+spells+for+over+a+thousand+years;%E2%9C%BF+a+spell+to+make+a+field+of+flowers+bloom;%F0%9F%93%96+is+this+a+mimic%3F+...let+me+check%2C+just+in+case;%F0%9F%8C%99+%E6%97%85%E3%81%AF%E3%81%BE%E3%81%A0%E7%B6%9A%E3%81%8F+%E2%80%94+the+journey+continues" alt="collecting useless spells for over a thousand years"/>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider-frieren.svg" width="100%" alt=""/>
 
-## 📜 Apothecary's Diary
+## 📖 Journey Log <sub>〜 旅の記録</sub>
 
-> *Day 1: I opened my very own apothecary here on GitHub.*
-> *Between one herb and the next, I'll be storing projects, ideas and little experiments.*
-> *I haven't figured out if any of them are poisonous yet... but curiosity always wins.* 🌿
+> *Day 1 of the journey: I opened a new page of my grimoire here on GitHub.*
+> *Along the way I'll be collecting projects, ideas and little spells, even the useless ones.*
+> ***Especially* the useless ones.** ✿
 
 <div align="center">
 
-| | 🏮 Apothecary's Record | |
+| | ✦ Mage's Record <sub>魔法使いの記録</sub> | |
 |:-:|:--|:--|
-| 🌸 | **Mood** | curious, slightly suspicious |
-| 🍵 | **Drink** | jasmine tea (poison-free, I think) |
-| 📚 | **Reading** | *The Apothecary Diaries* |
-| 🧪 | **Hobby** | solving palace mysteries |
-| 🎐 | **Status** | exploring GitHub, one step at a time |
+| 🔮 | **Class** | Mage (apprentice rank on GitHub) |
+| ✿ | **Favorite spell** | making a field of flowers bloom |
+| 📺 | **Watching** | *Frieren: Beyond Journey's End* |
+| 😴 | **Weakness** | waking up early |
+| 🧭 | **Status** | on a journey, one repository at a time |
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider-frieren.svg" width="100%" alt=""/>
 
-## 🌿 Herb Drawer
+## ✦ Collected Spells <sub>〜 集めた魔法</sub>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/anime-fbf0d9?style=for-the-badge&logo=crunchyroll&logoColor=c8102e" alt="anime"/>
-<img src="https://img.shields.io/badge/jasmine_tea-fbf0d9?style=for-the-badge&logo=buymeacoffee&logoColor=3f7a57" alt="jasmine tea"/>
-<img src="https://img.shields.io/badge/mysteries-fbf0d9?style=for-the-badge&logo=googlelens&logoColor=5a2a3a" alt="mysteries"/>
-<img src="https://img.shields.io/badge/medicinal_herbs-fbf0d9?style=for-the-badge&logo=leaflet&logoColor=3f7a57" alt="medicinal herbs"/>
+<img src="https://img.shields.io/badge/anime-eef0fb?style=for-the-badge&logo=crunchyroll&logoColor=4f57a6" alt="anime"/>
+<img src="https://img.shields.io/badge/fantasy-eef0fb?style=for-the-badge&logo=dungeonsanddragons&logoColor=4f57a6" alt="fantasy"/>
+<img src="https://img.shields.io/badge/grimoires-eef0fb?style=for-the-badge&logo=goodreads&logoColor=b08d45" alt="grimoires"/>
+<img src="https://img.shields.io/badge/flower_fields-eef0fb?style=for-the-badge&logo=leaflet&logoColor=5f9a7c" alt="flower fields"/>
 
 <!-- 💡 Quando quiser mostrar linguagens/ferramentas, é só copiar um badge acima
      e trocar o nome e o logo (lista de logos: https://simpleicons.org). Ex.:
-<img src="https://img.shields.io/badge/Python-fbf0d9?style=for-the-badge&logo=python&logoColor=c8102e" alt="Python"/>
+<img src="https://img.shields.io/badge/Python-eef0fb?style=for-the-badge&logo=python&logoColor=4f57a6" alt="Python"/>
 -->
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="assets/divider-frieren.svg" width="100%" alt=""/>
 
-## 🧾 Prescription of the Day
+## 🌙 Spell of the Day <sub>〜 今日の魔法</sub>
 
 ```diff
-  ✿ APOTHECARY'S PRESCRIPTION ✿
+  ✦ SPELL OF THE DAY ✦
+  花畑を出す魔法 · Spell to Make a Field of Flowers
 
-+ 1 cup of warm tea
-+ 2 handfuls of curiosity
-+ 1 pinch of courage to try new things
-- 0 poisons (this time, I promise)
++ effect:              fills any dull place with flowers
++ use in battle:       none whatsoever
++ use for happiness:   immeasurable
+- side effects:        none (unlike opening chests)
 
-  directions: take before opening a new repository 🍵
+  cast before starting a new repository ✿
 ```
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ggekkos&label=apothecary+visitors&color=c8102e&style=flat-square" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=ggekkos&label=fellow+travelers&color=5b66c2&style=flat-square" alt="fellow travelers"/>
 
-<img src="assets/footer.svg" width="100%" alt="the apothecary closes at dawn · come back soon"/>
+<img src="assets/footer-frieren.svg" width="100%" alt="the journey continues · see you on the next adventure"/>
 
 </div>
