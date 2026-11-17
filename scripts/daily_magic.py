@@ -203,7 +203,7 @@ query($login: String!) {
     contributionsCollection {
       contributionCalendar {
         totalContributions
-        weeks { contributionDays { date contributionCount contributionLevel } }
+        weeks { contributionDays { date contributionCount } }
       }
     }
     repositories(first: 100, privacy: PUBLIC, isFork: false, ownerAffiliations: OWNER,
@@ -235,7 +235,18 @@ def fetch():
 
 # ───────────────────────────── flower field ─────────────────────────────
 
-LEVELS = {"NONE": 0, "FIRST_QUARTILE": 1, "SECOND_QUARTILE": 2, "THIRD_QUARTILE": 3, "FOURTH_QUARTILE": 4}
+# how open the flower is, by the day's real contribution count
+# (GitHub's contributionLevel is relative quartiles: with few contributions,
+#  a single commit already counts as the top level)
+BLOOM = [(1, 1), (2, 2), (4, 3), (7, 4)]  # (minimum contributions, level)
+
+
+def bloom_level(count):
+    lvl = 0
+    for minimum, level in BLOOM:
+        if count >= minimum:
+            lvl = level
+    return lvl
 MONTHS = "Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split()
 
 
@@ -269,7 +280,7 @@ def garden(user):
         for day in days:
             wd = date.fromisoformat(day["date"]).isoweekday() % 7  # Sunday = 0
             cx, cy = x0 + wi * cell, y0 + wd * row
-            lvl = LEVELS.get(day["contributionLevel"], 0)
+            lvl = bloom_level(day["contributionCount"])
             if lvl == 0:  # a tiny sprout
                 p.append(f'<g transform="translate({cx:.1f} {cy:.1f})" opacity="0.5"><ellipse cx="-2.2" cy="1" rx="3" ry="1.4" fill="#8fbfa3" transform="rotate(-35 -2.2 1)"/>'
                          f'<ellipse cx="2.2" cy="1" rx="3" ry="1.4" fill="#8fbfa3" transform="rotate(35 2.2 1)"/></g>')
@@ -293,6 +304,9 @@ def garden(user):
     for i, (color, s) in enumerate([("#a9c3f7", 0.75), ("#7fa2ec", 0.95), ("#5b6fd6", 1.15)]):
         p.append(flower(rng, lx + 48 + i * 24, ly - 4, s, color, stem=False, sway=False))
     p.append(f'<text x="{lx + 124}" y="{ly}" font-family="{SERIF}" font-size="12" fill="#8c86b8">bloom</text>')
+    for i, label in enumerate(["0", "1", "2–3", "4–6", "7+"]):
+        p.append(f'<text x="{lx + i * 24}" y="{ly + 17}" text-anchor="middle" font-family="{SERIF}" '
+                 f'font-size="9" fill="#a19cc4">{label}</text>')
     p.append("</svg>\n")
     return write(f"garden-{TODAY.isoformat()}.svg", "\n".join(p))
 
