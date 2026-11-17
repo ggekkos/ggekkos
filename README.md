@@ -31,6 +31,10 @@
 <img src="assets/divider-frieren.svg" width="100%" alt=""/>
 
 <!-- GARDEN:START -->
+<img src="assets/generated/garden-2026-11-17.svg" width="100%" alt="flower field of contributions"/>
+
+<img src="assets/divider-frieren.svg" width="100%" alt=""/>
+
 <!-- GARDEN:END -->
 
 ## ✦ Collected Spells <sub>〜 集めた魔法</sub>
@@ -52,6 +56,7 @@
 <!-- 💡 A seção abaixo é preenchida sozinha pelo robô diário (.github/workflows/daily-magic.yml).
      Ela só aparece quando você tiver repositórios públicos. -->
 <!-- GRIMOIRE:START -->
+
 <!-- GRIMOIRE:END -->
 
 <img src="assets/divider-frieren.svg" width="100%" alt=""/>
