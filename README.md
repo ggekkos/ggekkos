@@ -31,7 +31,7 @@
 <img src="assets/divider-frieren.svg" width="100%" alt=""/>
 
 <!-- GARDEN:START -->
-<img src="assets/generated/garden-2026-11-17.svg" width="100%" alt="flower field of contributions"/>
+<img src="assets/generated/garden-2026-11-18.svg" width="100%" alt="flower field of contributions"/>
 
 <img src="assets/divider-frieren.svg" width="100%" alt=""/>
 
@@ -56,6 +56,17 @@
 <!-- 💡 A seção abaixo é preenchida sozinha pelo robô diário (.github/workflows/daily-magic.yml).
      Ela só aparece quando você tiver repositórios públicos. -->
 <!-- GRIMOIRE:START -->
+<img src="assets/divider-frieren.svg" width="100%" alt=""/>
+
+## 📚 Grimoire Pages <sub>〜 魔導書のページ</sub>
+
+<div align="center">
+
+<img src="assets/generated/stats-2026-11-18.svg" width="100%" alt="mage's stats"/>
+
+<a href="https://github.com/ggekkos/pdf_reader"><img src="assets/generated/repo-pdf_reader-2026-11-18.svg" width="49%" alt="pdf_reader"/></a>
+
+</div>
 
 <!-- GRIMOIRE:END -->
 
@@ -65,13 +76,13 @@
 
 <!-- SPELL:START -->
 ```diff
-  ✦ SPELL OF THE DAY · Nov 17, 2026 ✦
-  ミミックを見分ける魔法 · Spell to Detect Mimics
+  ✦ SPELL OF THE DAY · Nov 18, 2026 ✦
+  時間を忘れる魔法 · Spell to Lose Track of Time
 
-+ effect:              tells if a chest is a mimic, 99% accuracy
-+ use in battle:       life-saving, honestly
-+ use for happiness:   immense
-- side effects:        the other 1% is always the chest you open
++ effect:              an afternoon with friends feels like a moment
++ use in battle:       none
++ use for happiness:   the most precious kind
+- side effects:        suddenly, it's been eighty years
 
   cast before starting a new repository ✿
 ```
