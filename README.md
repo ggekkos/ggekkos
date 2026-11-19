@@ -31,7 +31,7 @@
 <img src="assets/divider-frieren.svg" width="100%" alt=""/>
 
 <!-- GARDEN:START -->
-<img src="assets/generated/garden-2026-11-18.svg" width="100%" alt="flower field of contributions"/>
+<img src="assets/generated/garden-2026-11-19.svg" width="100%" alt="flower field of contributions"/>
 
 <img src="assets/divider-frieren.svg" width="100%" alt=""/>
 
@@ -62,9 +62,10 @@
 
 <div align="center">
 
-<img src="assets/generated/stats-2026-11-18.svg" width="100%" alt="mage's stats"/>
+<img src="assets/generated/stats-2026-11-19.svg" width="100%" alt="mage's stats"/>
 
-<a href="https://github.com/ggekkos/pdf_reader"><img src="assets/generated/repo-pdf_reader-2026-11-18.svg" width="49%" alt="pdf_reader"/></a>
+<a href="https://github.com/ggekkos/espiadinha-releases"><img src="assets/generated/repo-espiadinha-releases-2026-11-19.svg" width="49%" alt="espiadinha-releases"/></a>
+<a href="https://github.com/ggekkos/pdf_reader"><img src="assets/generated/repo-pdf_reader-2026-11-19.svg" width="49%" alt="pdf_reader"/></a>
 
 </div>
 
@@ -76,13 +77,13 @@
 
 <!-- SPELL:START -->
 ```diff
-  ✦ SPELL OF THE DAY · Nov 18, 2026 ✦
-  時間を忘れる魔法 · Spell to Lose Track of Time
+  ✦ SPELL OF THE DAY · Nov 19, 2026 ✦
+  花畑を出す魔法 · Spell to Make a Field of Flowers
 
-+ effect:              an afternoon with friends feels like a moment
-+ use in battle:       none
-+ use for happiness:   the most precious kind
-- side effects:        suddenly, it's been eighty years
++ effect:              fills any dull place with flowers
++ use in battle:       none whatsoever
++ use for happiness:   immeasurable
+- side effects:        none (unlike opening chests)
 
   cast before starting a new repository ✿
 ```
