@@ -31,7 +31,7 @@
 <img src="assets/divider-frieren.svg" width="100%" alt=""/>
 
 <!-- GARDEN:START -->
-<img src="assets/generated/garden-2026-11-21.svg" width="100%" alt="flower field of contributions"/>
+<img src="assets/generated/garden-2026-11-22.svg" width="100%" alt="flower field of contributions"/>
 
 <img src="assets/divider-frieren.svg" width="100%" alt=""/>
 
@@ -62,11 +62,11 @@
 
 <div align="center">
 
-<img src="assets/generated/stats-2026-11-21.svg" width="100%" alt="mage's stats"/>
+<img src="assets/generated/stats-2026-11-22.svg" width="100%" alt="mage's stats"/>
 
-<a href="https://github.com/ggekkos/AIGenerator"><img src="assets/generated/repo-AIGenerator-2026-11-21.svg" width="49%" alt="AIGenerator"/></a>
-<a href="https://github.com/ggekkos/espiadinha-releases"><img src="assets/generated/repo-espiadinha-releases-2026-11-21.svg" width="49%" alt="espiadinha-releases"/></a>
-<a href="https://github.com/ggekkos/pdf_reader"><img src="assets/generated/repo-pdf_reader-2026-11-21.svg" width="49%" alt="pdf_reader"/></a>
+<a href="https://github.com/ggekkos/AIGenerator"><img src="assets/generated/repo-AIGenerator-2026-11-22.svg" width="49%" alt="AIGenerator"/></a>
+<a href="https://github.com/ggekkos/espiadinha-releases"><img src="assets/generated/repo-espiadinha-releases-2026-11-22.svg" width="49%" alt="espiadinha-releases"/></a>
+<a href="https://github.com/ggekkos/pdf_reader"><img src="assets/generated/repo-pdf_reader-2026-11-22.svg" width="49%" alt="pdf_reader"/></a>
 
 </div>
 
@@ -78,13 +78,13 @@
 
 <!-- SPELL:START -->
 ```diff
-  ✦ SPELL OF THE DAY · Nov 21, 2026 ✦
-  かき氷を作る魔法 · Spell to Make Shaved Ice
+  ✦ SPELL OF THE DAY · Nov 22, 2026 ✦
+  甘いぶどうを酸っぱくする魔法 · Spell to Turn Sweet Grapes Sour
 
-+ effect:              turns a cup of water into fluffy shaved ice
-+ use in battle:       could chill an enemy... very slightly
-+ use for happiness:   perfect on a summer afternoon
-- side effects:        brain freeze
++ effect:              makes sweet grapes a little sour
++ use in battle:       none
++ use for happiness:   questionable
+- side effects:        friends stop trusting your snacks
 
   cast before starting a new repository ✿
 ```
