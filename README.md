@@ -31,7 +31,7 @@
 <img src="assets/divider-frieren.svg" width="100%" alt=""/>
 
 <!-- GARDEN:START -->
-<img src="assets/generated/garden-2026-11-22.svg" width="100%" alt="flower field of contributions"/>
+<img src="assets/generated/garden-2026-11-23.svg" width="100%" alt="flower field of contributions"/>
 
 <img src="assets/divider-frieren.svg" width="100%" alt=""/>
 
@@ -62,11 +62,11 @@
 
 <div align="center">
 
-<img src="assets/generated/stats-2026-11-22.svg" width="100%" alt="mage's stats"/>
+<img src="assets/generated/stats-2026-11-23.svg" width="100%" alt="mage's stats"/>
 
-<a href="https://github.com/ggekkos/AIGenerator"><img src="assets/generated/repo-AIGenerator-2026-11-22.svg" width="49%" alt="AIGenerator"/></a>
-<a href="https://github.com/ggekkos/espiadinha-releases"><img src="assets/generated/repo-espiadinha-releases-2026-11-22.svg" width="49%" alt="espiadinha-releases"/></a>
-<a href="https://github.com/ggekkos/pdf_reader"><img src="assets/generated/repo-pdf_reader-2026-11-22.svg" width="49%" alt="pdf_reader"/></a>
+<a href="https://github.com/ggekkos/AIGenerator"><img src="assets/generated/repo-AIGenerator-2026-11-23.svg" width="49%" alt="AIGenerator"/></a>
+<a href="https://github.com/ggekkos/espiadinha-releases"><img src="assets/generated/repo-espiadinha-releases-2026-11-23.svg" width="49%" alt="espiadinha-releases"/></a>
+<a href="https://github.com/ggekkos/pdf_reader"><img src="assets/generated/repo-pdf_reader-2026-11-23.svg" width="49%" alt="pdf_reader"/></a>
 
 </div>
 
@@ -78,13 +78,13 @@
 
 <!-- SPELL:START -->
 ```diff
-  ✦ SPELL OF THE DAY · Nov 22, 2026 ✦
-  甘いぶどうを酸っぱくする魔法 · Spell to Turn Sweet Grapes Sour
+  ✦ SPELL OF THE DAY · Nov 23, 2026 ✦
+  失くした靴下を見つける魔法 · Spell to Find Lost Socks
 
-+ effect:              makes sweet grapes a little sour
++ effect:              finds the missing sock of any pair
 + use in battle:       none
-+ use for happiness:   questionable
-- side effects:        friends stop trusting your snacks
++ use for happiness:   restores order to the universe
+- side effects:        sometimes finds three
 
   cast before starting a new repository ✿
 ```
