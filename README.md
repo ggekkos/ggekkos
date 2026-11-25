@@ -31,7 +31,7 @@
 <img src="assets/divider-frieren.svg" width="100%" alt=""/>
 
 <!-- GARDEN:START -->
-<img src="assets/generated/garden-2026-11-24.svg" width="100%" alt="flower field of contributions"/>
+<img src="assets/generated/garden-2026-11-25.svg" width="100%" alt="flower field of contributions"/>
 
 <img src="assets/divider-frieren.svg" width="100%" alt=""/>
 
@@ -62,11 +62,11 @@
 
 <div align="center">
 
-<img src="assets/generated/stats-2026-11-24.svg" width="100%" alt="mage's stats"/>
+<img src="assets/generated/stats-2026-11-25.svg" width="100%" alt="mage's stats"/>
 
-<a href="https://github.com/ggekkos/AIGenerator"><img src="assets/generated/repo-AIGenerator-2026-11-24.svg" width="49%" alt="AIGenerator"/></a>
-<a href="https://github.com/ggekkos/espiadinha-releases"><img src="assets/generated/repo-espiadinha-releases-2026-11-24.svg" width="49%" alt="espiadinha-releases"/></a>
-<a href="https://github.com/ggekkos/pdf_reader"><img src="assets/generated/repo-pdf_reader-2026-11-24.svg" width="49%" alt="pdf_reader"/></a>
+<a href="https://github.com/ggekkos/AIGenerator"><img src="assets/generated/repo-AIGenerator-2026-11-25.svg" width="49%" alt="AIGenerator"/></a>
+<a href="https://github.com/ggekkos/espiadinha-releases"><img src="assets/generated/repo-espiadinha-releases-2026-11-25.svg" width="49%" alt="espiadinha-releases"/></a>
+<a href="https://github.com/ggekkos/pdf_reader"><img src="assets/generated/repo-pdf_reader-2026-11-25.svg" width="49%" alt="pdf_reader"/></a>
 
 </div>
 
@@ -78,13 +78,13 @@
 
 <!-- SPELL:START -->
 ```diff
-  ✦ SPELL OF THE DAY · Nov 24, 2026 ✦
-  お茶をちょうどいい温度にする魔法 · Spell to Keep Tea at the Perfect Temperature
+  ✦ SPELL OF THE DAY · Nov 25, 2026 ✦
+  寝癖を直す魔法 · Spell to Fix Bed Hair
 
-+ effect:              tea stays warm for hours
++ effect:              tames your hair after a long nap
 + use in battle:       none
-+ use for happiness:   very high
-- side effects:        you forget to drink it anyway
++ use for happiness:   five more minutes of sleep
+- side effects:        only works on the left side
 
   cast before starting a new repository ✿
 ```
